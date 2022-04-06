@@ -27,7 +27,7 @@ class _ShipScreenState extends State<ShipScreen> {
             Padding(
               padding: const EdgeInsets.all(12.0),
               child: ElevatedButton(onPressed: (){
-                  showDialog(context: context, builder: (context) => AlertDialog(title: Text('Sky Information'),
+                  showDialog(context: context, builder: (context) => AlertDialog(title: Text('Sky Cruise Ship Information'),
                     content:
                     Text('Ship Name: ${widget.shipModel1.shipName}\n'   //Here we get the shipModel1 or sky's response.body data.
                         'Ship Inaugural Date: ${widget.shipModel1.shipFacts.inauguralDate}\n'
@@ -53,7 +53,7 @@ class _ShipScreenState extends State<ShipScreen> {
             Padding(
               padding: const EdgeInsets.all(12.0),
               child: ElevatedButton(onPressed: (){
-                showDialog(context: context, builder: (context) => AlertDialog(title: Text('Bliss Information'),
+                showDialog(context: context, builder: (context) => AlertDialog(title: Text('Bliss Cruise Ship Information'),
                   content:
                   Text('Ship Name: ${widget.shipModel2.shipName}\n'
                       'Ship Inaugural Date: ${widget.shipModel2.shipFacts.inauguralDate}\n'
@@ -79,7 +79,7 @@ class _ShipScreenState extends State<ShipScreen> {
             Padding(
               padding: const EdgeInsets.all(12.0),
               child: ElevatedButton(onPressed: (){
-                showDialog(context: context, builder: (context) => AlertDialog(title: Text('Escape Information'),
+                showDialog(context: context, builder: (context) => AlertDialog(title: Text('Escape Cruise Ship Information'),
                   content:
                   Text('Ship Name: ${widget.shipModel3.shipName}\n'
                       'Ship Inaugural Date: ${widget.shipModel3.shipFacts.inauguralDate}\n'
