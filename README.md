@@ -1,6 +1,6 @@
 # ncl
 
-For applying to Norwegian Cruise Line Flutter role.
+For applying to Norwegian Cruise Line Flutter Mobile Developer role.
 
 <img width="289" alt="NCL 1" src="https://user-images.githubusercontent.com/13912207/162078657-9759a418-4a5b-43c3-b73c-1d4e1793f7b4.png"></br>
 <img width="296" alt="NCL 4" src="https://user-images.githubusercontent.com/13912207/162078675-fbf768a7-58e0-4a21-a211-b3699f0a8cb4.png"></br>
